@@ -1,12 +1,14 @@
-# homework2
-## About Mahatma Gandhi 
+## homework2
+## Mahatma Gandhi
 
-This website is a approach to help user to learn about Mahatma Gandhi,also their availability to the internet by using the SEO so they get the most out of it. It also help user to contact with us if they have any question about this websiteby clicking on Contact tool so business owner can get the information about customer desire.
+This is a portfolio page for legendary Indian politician Mahatma Gandi. This page contains all the basic information about mahatma Gandhi people need to know. This page contains Mahatma Gandhi's bio, portfolio, and a contact us form.
 
 ## Motivation
-Build meaningful relationships across all social media platforms. Collaboratively plan campaigns from one unified view — connecting your marketing, service, and sales teams directly to your customers in real time. 
+
+Mahatma Gandhi is an important person in international history. He is one of the most internet searched icon. this webpage is to help knowledge thirst people to get some quick info in a glance. I tried to make a simplified page about mahatma gandhi.
+the whole idea is to Build meaningful relationships across all social media platforms. Collaboratively plan campaigns from one unified view — connecting your marketing, service, and sales teams directly to your customers in real-time. 
 Social media marketing helps improve brand loyalty.
-Engaging with your customers and leads on social media helps you build stronger customer relationships. This can set you apart from your competition by showing your audience how your brand is different and reinforcing that your business cares about its customers
+Engaging with your customers and leads to social media helps you build stronger customer relationships. This can set you apart from your competition by showing your audience how your brand is different and reinforcing that your business cares about its customers
 
 ## Build status
 project still in development phase
@@ -48,6 +50,7 @@ not decided
 
 ## Installation
 soon to be covered....
+https://dasamith.github.io/homework2/
 
 ## API Reference
 
@@ -68,4 +71,4 @@ upenn coding bootcamp
 ## License
 A short snippet describing the license (MIT, Apache etc)
 
-MIT © [Yourname]()
+MIT © [Amith Das]()
